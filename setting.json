@@ -1,0 +1,13 @@
+{
+  "osc":{
+    "host": "localhost",
+    "port": "3333"
+  },
+  "arduino":{
+    "modem": "/dev/tty.usbmodem621",
+    "available_pins":{
+      "analog": [],
+      "digital": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    arduino_firmata (0.3.7)
+      args_parser (>= 0.1.4)
+      event_emitter (>= 0.2.4)
+      serialport (>= 1.1.0)
+    args_parser (0.2.0)
+    event_emitter (0.2.5)
+    rosc (0.1.3)
+    serialport (1.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  arduino_firmata
+  rosc
+
+BUNDLED WITH
+   1.10.6

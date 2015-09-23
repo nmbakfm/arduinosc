@@ -4,10 +4,10 @@
     "port": "3333"
   },
   "arduino":{
-    "modem": "/dev/tty.usbmodem621",
+    "modem": "/dev/cu.usbmodem1d1131",
     "available_pins":{
-      "analog": [],
-      "digital": []
+      "analog": [0,1,2,3],
+      "digital": [13,12,11,10]
     }
   }
 }

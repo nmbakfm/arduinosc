@@ -4,8 +4,16 @@
 
 convert Arduino signals to OSC(Open Sound Control)
 
+checked with Arduino Uno/Leonardo/Due.
+connect micro USB to Programming Port Serial if you use Arduino Due.
+
 # Usage
 
+## Update Firmata to Your Arduino
+
+You can find Firmata Library in Examples on Arduino IDE
+
+## Download
 this App need Firmata Library on Arduino
 
 You should install ruby v2.2.3 and bundler.
@@ -17,7 +25,7 @@ cd arduinosc
 bundler install --path=vendor/bundle
 ```
 
-# Execute
+## Execute
 ```plain
 ruby arduinosc.rb
 ```

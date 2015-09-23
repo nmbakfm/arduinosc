@@ -1,3 +1,5 @@
+**Attention:** This Application is under development
+
 # ArduinOSC
 
 convert Arduino signals to OSC(Open Sound Control)
@@ -22,7 +24,7 @@ ruby arduinosc.rb
 
 # Settings
 
-write your settings on setting.json. like following code: 
+write your settings on setting.json. like following code:
 
 ```json
 {

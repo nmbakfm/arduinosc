@@ -1,5 +1,3 @@
-**Attention:** This Application is under development
-
 # ArduinOSC
 
 convert Arduino signals to OSC(Open Sound Control)
